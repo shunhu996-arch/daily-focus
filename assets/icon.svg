@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="研途">
+  <rect width="512" height="512" rx="104" fill="#f3eee4"/>
+  <circle cx="256" cy="256" r="182" fill="#202a24"/>
+  <circle cx="256" cy="256" r="157" fill="none" stroke="#f3eee4" stroke-width="2" opacity=".35"/>
+  <rect x="154" y="149" width="204" height="214" rx="14" fill="none" stroke="#c65c42" stroke-width="9"/>
+  <rect x="170" y="165" width="172" height="182" rx="7" fill="none" stroke="#c65c42" stroke-width="2" opacity=".65"/>
+  <text x="256" y="304" fill="#d46a50" font-family="SimSun, Songti SC, serif" font-size="132" font-weight="700" text-anchor="middle">岸</text>
+  <text x="256" y="426" fill="#f3eee4" font-family="Georgia, serif" font-size="22" letter-spacing="10" text-anchor="middle">YANTU</text>
+</svg>
