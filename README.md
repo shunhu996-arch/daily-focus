@@ -1,5 +1,8 @@
 # 研途 · 五十日冲刺
 
+**在线地址：** https://shunhu996-arch.github.io/daily-focus/  
+**GitHub 仓库：** https://github.com/shunhu996-arch/daily-focus
+
 ![研途 · 今日视图](preview.png)
 
 ![研途 · 手机视图](preview-mobile.png)
